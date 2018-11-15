@@ -1,0 +1,13 @@
+{
+    "name": "alexanderlt/alipay",
+    "description": "支付宝官方SDK",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alexanderqd@hotmail.com"
+        }
+    ],
+    "require": {}
+}
