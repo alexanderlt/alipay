@@ -9,5 +9,6 @@
             "email": "alexanderqd@hotmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable",
 }
