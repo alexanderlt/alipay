@@ -10,7 +10,7 @@
         }
     ],
     "require": {},
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "DCL_Alipay\\": "src/"
