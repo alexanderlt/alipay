@@ -10,5 +10,10 @@
         }
     ],
     "require": {},
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "alexanderlt\\alipay\\": "src/"
+        }
+    }
 }
